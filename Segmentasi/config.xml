@@ -1,0 +1,12 @@
+<View>
+  <Header value="Select label and start to click on image"></Header>
+
+  <Image name="img" value="$image"></Image>
+
+  <PolygonLabels name="tag" toName="img" strokewidth="5">
+    <Label value="Manusia" background="chocolate"></Label>
+    <Label value="Hewan" background="red"></Label>
+    <Label value="Tumbuhan" background="green"></Label>
+    <Label value="Air" background="aqua"></Label>
+  </PolygonLabels>
+</View>
