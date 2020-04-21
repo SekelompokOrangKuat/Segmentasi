@@ -1,0 +1,114 @@
+{
+    "completions": [
+        {
+            "id": 1001,
+            "lead_time": 70.079,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "MgxNUGt1kT",
+                    "original_height": 375,
+                    "original_width": 500,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "polygonlabels",
+                    "value": {
+                        "points": [
+                            [
+                                0.2,
+                                98.93333333333331
+                            ],
+                            [
+                                99.2,
+                                99.2
+                            ],
+                            [
+                                99,
+                                0
+                            ],
+                            [
+                                0.6,
+                                0.8
+                            ],
+                            [
+                                15,
+                                64.53333333333333
+                            ],
+                            [
+                                17.599999999999998,
+                                63.733333333333334
+                            ],
+                            [
+                                24.6,
+                                65.60000000000001
+                            ],
+                            [
+                                30.4,
+                                69.59999999999998
+                            ],
+                            [
+                                31.6,
+                                73.59999999999998
+                            ],
+                            [
+                                29.4,
+                                78.13333333333331
+                            ],
+                            [
+                                21.8,
+                                78.93333333333334
+                            ],
+                            [
+                                15.2,
+                                73.33333333333333
+                            ],
+                            [
+                                13.4,
+                                68.26666666666667
+                            ],
+                            [
+                                12.4,
+                                65.06666666666666
+                            ]
+                        ],
+                        "polygonlabels": [
+                            "Air"
+                        ]
+                    }
+                },
+                {
+                    "from_name": "tag",
+                    "id": "33atSsXaP-",
+                    "original_height": 375,
+                    "original_width": 500,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "polygonlabels",
+                    "value": {
+                        "points": [
+                            [
+                                11.600000000000001,
+                                61.06666666666667
+                            ],
+                            [
+                                1.2,
+                                93.06666666666666
+                            ],
+                            [
+                                0.4,
+                                8.799999999999997
+                            ]
+                        ],
+                        "polygonlabels": [
+                            "Air"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "image": "https://images.pexels.com/photos/1575833/pexels-photo-1575833.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    "id": 1
+}

@@ -1,0 +1,46 @@
+{
+    "completions": [
+        {
+            "id": 5001,
+            "lead_time": 13.658,
+            "result": [
+                {
+                    "from_name": "tag",
+                    "id": "xmrKwz38Jf",
+                    "original_height": 333,
+                    "original_width": 500,
+                    "source": "$image",
+                    "to_name": "img",
+                    "type": "polygonlabels",
+                    "value": {
+                        "points": [
+                            [
+                                1.2,
+                                80.78078078078079
+                            ],
+                            [
+                                99,
+                                85.58558558558559
+                            ],
+                            [
+                                99.6,
+                                97.89789789789789
+                            ],
+                            [
+                                0.8,
+                                97.5975975975976
+                            ]
+                        ],
+                        "polygonlabels": [
+                            "Tumbuhan"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "image": "https://images.pexels.com/photos/256310/pexels-photo-256310.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    "id": 5
+}
